@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\bin\Debug\net6.0\EncapsolationTasks.exe
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\bin\Debug\net6.0\EncapsolationTasks.deps.json
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\bin\Debug\net6.0\EncapsolationTasks.runtimeconfig.json
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\bin\Debug\net6.0\EncapsolationTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\bin\Debug\net6.0\EncapsolationTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.AssemblyInfo.cs
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\refint\EncapsolationTasks.dll
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.pdb
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\EncapsolationTasks.genruntimeconfig.cache
+C:\Users\TRA\Desktop\TRA-Code\EncapsolationTasks\EncapsolationTasks\obj\Debug\net6.0\ref\EncapsolationTasks.dll
